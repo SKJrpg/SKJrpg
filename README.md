@@ -16,4 +16,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### 📊 GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?SKJrpg=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SKJrpg)](https://github.com/anuraghazra/github-readme-stats)
