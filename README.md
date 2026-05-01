@@ -7,7 +7,7 @@
 ⚡ Passionate about power systems, embedded systems, and intelligent control
 
 📫 How to reach me:
-   - Email: sukaijun233@gmail.com
+   - Email: 25521449@bjtu.edu.cn
 
 ---
 ### 🛠️ Tech Stack
