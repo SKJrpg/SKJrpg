@@ -17,3 +17,5 @@
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SKJrpg&show_icons=true&theme=radical)
+
+![111](https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=SKJrpg&show_icons=true&theme=radical)
