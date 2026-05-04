@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm 𝓚𝓪𝓲𝓳𝓾𝓷 𝓢𝓾
 
-🔭 I’m currently studying at **Beijing Jiaotong University**
+🔭 I’m currently studying at 𝐁𝐞𝐢𝐣𝐢𝐧𝐠 𝐉𝐢𝐚𝐨𝐭𝐨𝐧𝐠 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲
 
-🌱 I’m currently learning **Electrical Engineering**
+🌱 I’m currently learning 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔
 
 ⚡ Passionate about power systems, embedded systems, and intelligent control
 
 📫 How to reach me:
-   - Email: 25521449@bjtu.edu.cn
+   - Email: 𝟸𝟻𝟻𝟸𝟷𝟺𝟺𝟿@𝚋𝚓𝚝𝚞.𝚎𝚍𝚞.𝚌𝚗
 
 ---
 ### 🛠️ Tech Stack
