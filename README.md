@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kaijun Su
+### Hi there 👋 I'm 𝕂𝕒𝕚𝕛𝕦𝕟 𝕊𝕦
 
 🔭 I’m currently studying at **Beijing Jiaotong University**
 
