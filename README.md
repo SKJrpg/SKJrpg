@@ -16,4 +16,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-stats.17359591696.workers.dev/?username=skjrpg)
+[![GitHub Stats](https://github-stats.17359591696.workers.dev/?username=skjrpg)](https://github-stats.17359591696.workers.dev/?username=skjrpg&theme=tokyonight)
