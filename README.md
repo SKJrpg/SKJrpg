@@ -16,4 +16,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://skjstats.qzz.io/?username=skjrpg)
+![GitHub Stats](https://skjstats.qzz.io/?username=skjrpg&theme=radical)
