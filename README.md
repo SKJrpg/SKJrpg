@@ -2,7 +2,7 @@
 
 🔭 I'm currently studying at 𝐁𝐞𝐢𝐣𝐢𝐧𝐠 𝐉𝐢𝐚𝐨𝐭𝐨𝐧𝐠 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲
 
-🌱 I'm currently learning 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔
+🌱 I'm currently learning 𝐼𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔
 
 ⚡ Passionate about power systems, embedded systems, and intelligent control
 
