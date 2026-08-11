@@ -1,9 +1,9 @@
-&lt;h1 align="center"&gt;Hi there 👋, I'm [Your Name]&lt;/h1&gt;
-&lt;h3 align="center"&gt;Undergraduate @ Beijing Jiaotong University · Information Engineering&lt;/h3&gt;
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">Undergraduate @ Beijing Jiaotong University · Information Engineering</h3>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
@@ -38,11 +38,11 @@
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" /&gt;
-  &lt;br/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://skjstats.qzz.io/api?username=SKJrpg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://skjstats.qzz.io/api/top-langs/?username=SKJrpg&&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -93,9 +93,9 @@
 
 ## 🏆 GitHub Profile Trophy
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&column=7&theme=flat" alt="trophy" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://skjstats.qzz.io/?username=SKJrpg&column=7&theme=flat" alt="trophy" />
+</p>
 
 ---
 
@@ -107,7 +107,4 @@
 
 ---
 
-&gt; *"The journey of a thousand miles begins with a single step."*
-
-### 📊 GitHub Stats
-![GitHub Stats](https://skjstats.qzz.io/api?username=SKJrpg&show_icons=true&theme=radical)
+> *"The journey of a thousand miles begins with a single step."*
