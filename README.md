@@ -14,7 +14,7 @@
 - 🤖 Also exploring **AI Security**, **Machine Learning**, and their intersection with cryptography
 - 🌱 Currently building foundations in cryptography, network security, and AI
 - 💡 Research interests: AI Security / Privacy-Preserving Computation / Cryptography / Network Security
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at: 25521449@bjtu.edu.cn
 
 ---
 
@@ -95,7 +95,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: your.email@example.com
+- 📧 Email: sukaijun233@gmail.com
 - 💼 LinkedIn: [Your LinkedIn](optional)
 - 📝 Blog: [Your Blog](optional)
 
