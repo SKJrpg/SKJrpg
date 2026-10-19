@@ -16,9 +16,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skjstats.qzz.io/api?username=SKJrpg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.sukaijun.com/api?username=SKJrpg&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://skjstats.qzz.io/api/top-langs/?username=SKJrpg&&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.sukaijun.com/api/top-langs/?username=SKJrpg&&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
