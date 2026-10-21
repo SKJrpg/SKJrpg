@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kaijun Su · 苏凯俊
+# Kaijun Su
 
 **I build real projects with agents.**
 
