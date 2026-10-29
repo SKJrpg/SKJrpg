@@ -2,9 +2,9 @@
 
 # Kaijun Su
 
-Information Engineering @ Beijing Jiaotong University · Beijing, China
+Information Engineering @ Beijing Jiaotong University
 
-[sukaijun.com](https://www.sukaijun.com) · [blog](https://blog.sukaijun.com) · [contact@sukaijun.com](mailto:contact@sukaijun.com)
+[contact@sukaijun.com](mailto:contact@sukaijun.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.sukaijun.com/api?username=SKJrpg&show_icons=true&hide=stars&hide_rank=true&show=prs_merged&bg_color=0d1117&border_color=30363d&locale=en&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
