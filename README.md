@@ -10,39 +10,24 @@ Information Engineering @ Beijing Jiaotong University · Beijing, China
 
 [sukaijun.com](https://www.sukaijun.com) · [blog](https://blog.sukaijun.com) · [contact@sukaijun.com](mailto:contact@sukaijun.com)
 
-</div>
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.sukaijun.com/api?username=SKJrpg&show_icons=true&hide=stars&hide_rank=true&show=prs_merged&hide_border=true&bg_color=00000000&locale=en&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
-  <img height="195" alt="GitHub stats" src="https://github-readme-stats.sukaijun.com/api?username=SKJrpg&show_icons=true&hide=stars&hide_rank=true&show=prs_merged&hide_border=true&bg_color=00000000&locale=en&title_color=0969da&icon_color=0969da&text_color=24292f">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.sukaijun.com/api?username=SKJrpg&show_icons=true&hide=stars&hide_rank=true&show=prs_merged&bg_color=0d1117&border_color=30363d&locale=en&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
+  <img height="195" alt="GitHub stats" src="https://github-readme-stats.sukaijun.com/api?username=SKJrpg&show_icons=true&hide=stars&hide_rank=true&show=prs_merged&bg_color=ffffff&border_color=d0d7de&locale=en&title_color=0969da&icon_color=0969da&text_color=24292f">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.sukaijun.com/api/top-langs/?username=SKJrpg&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&locale=en&title_color=58a6ff&text_color=c9d1d9">
-  <img height="195" alt="Top languages" src="https://github-readme-stats.sukaijun.com/api/top-langs/?username=SKJrpg&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&locale=en&title_color=0969da&text_color=24292f">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.sukaijun.com/api/top-langs/?username=SKJrpg&layout=compact&langs_count=8&bg_color=0d1117&border_color=30363d&locale=en&title_color=58a6ff&text_color=c9d1d9">
+  <img height="195" alt="Top languages" src="https://github-readme-stats.sukaijun.com/api/top-langs/?username=SKJrpg&layout=compact&langs_count=8&bg_color=ffffff&border_color=d0d7de&locale=en&title_color=0969da&text_color=24292f">
 </picture>
 
 </div>
 
 ## 最近在做
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.sukaijun.com/api/pin/?username=SKJrpg&repo=haidian&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
-  <img height="150" alt="haidian" src="https://github-readme-stats.sukaijun.com/api/pin/?username=SKJrpg&repo=haidian&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=24292f">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.sukaijun.com/api/pin/?username=SKJrpg&repo=NextKde&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
-  <img height="150" alt="NextKde" src="https://github-readme-stats.sukaijun.com/api/pin/?username=SKJrpg&repo=NextKde&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=24292f">
-</picture>
-
-</div>
-
-两份方案包已合并进 [open-city-ai/haidian](https://github.com/open-city-ai/haidian)（3 个 PR）。
-
-[sukaijun.com](https://www.sukaijun.com) — Astro + Tailwind，约 1.4 KB JavaScript。
+| 项目 | 内容 | 状态 |
+| :-- | :-- | :-- |
+| [haidian](https://github.com/SKJrpg/haidian) | 百年京张 AI 创新带 · 京张企校共创带 / 京张智轨 AGENT LINE | [3 PRs merged](https://github.com/open-city-ai/haidian) |
+| [NextKde](https://github.com/SKJrpg/NextKde) | KOS 桌面壳 · QML | 进行中 |
+| [sukaijun.com](https://www.sukaijun.com) | Astro + Tailwind · 约 1.4 KB JavaScript | 线上 |
 
 `Astro` `Tailwind` `Hugo` `QML` `Python` `Cloudflare`
 
