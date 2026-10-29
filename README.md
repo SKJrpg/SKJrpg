@@ -4,10 +4,6 @@
 
 Information Engineering @ Beijing Jiaotong University · Beijing, China
 
-和 Agent 一起，做真实项目。
-
-设计 · 前端 · 城市数据
-
 [sukaijun.com](https://www.sukaijun.com) · [blog](https://blog.sukaijun.com) · [contact@sukaijun.com](mailto:contact@sukaijun.com)
 
 <picture>
